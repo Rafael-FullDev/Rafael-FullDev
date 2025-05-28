@@ -1,12 +1,17 @@
 ## Olá, me chamo Rafael Ferreira, desenvolvedor full stack focado no estudo da programação e tecnologia!
 
 
-<h2 align="center">📊 Lingugagens utilizadas</h2>
+<h2 align="center">📊 Linguagens mais utilizadas</h2>
 
 <div align="center">
- 
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FullDev&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Enfrente;Desafie;Descubra;Não-pare;Beba-agua!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
+</p>
 
 ---
 
