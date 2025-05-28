@@ -3,6 +3,29 @@
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
+<!-- README STATS -->
+
+<!-- GitHub Stats Lindo e Criativo 🌟 -->
+
+<h2 align="center">📊 Meu Universo Dev</h2>
+
+<div align="center">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FullDev&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+---
+
+<p align="center"><i>💥 Código é arte. Commits são traços. E meu GitHub é a galeria. 🎨</i></p>
+
+
+---
+
+<h3 align="center">🚀 Cada commit é um passo na jornada. Cada push, uma conquista. Cada bug... uma lição 😂</h3>
+
+<p align="center">🔁 Atualizado em tempo real – porque meu repositório nunca dorme 🛠️🌙</p>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
