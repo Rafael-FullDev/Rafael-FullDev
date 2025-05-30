@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">"Torne-se quem você é." — Nietzsche</h3>
+<h3 align="center">"Tudo aquilo que não me mata, me fortalece" — Nietzsche</h3>
 
 ---
 
