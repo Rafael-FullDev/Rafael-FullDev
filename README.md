@@ -6,6 +6,7 @@
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FullDev&layout=compact&langs_count=7&theme=algolia"/>
+  
 </div>
 
 
@@ -30,9 +31,6 @@
 </div>
   
   ##
-
-<a href="https://www.linkedin.com/in/ryan-brayan-478049221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:ryanbrayanf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=red" href></a>
 
  <a href="https://www.linkedin.com/in/rafael-full-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rafaelfaxq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=red" href></a>
