@@ -1,7 +1,12 @@
-## Olá, me chamo Rafael Ferreira, desenvolvedor full stack focado no estudo da programação e tecnologia!
+ <h1> Olá, me chamo Rafael Ferreira, desenvolvedor full stack focado no estudo da programação e tecnologia!</h1> 
+ 
+---
 
+<h3 align="center">Linguagens mais utilizadas</h3>
 
-<h2 align="center">📊 Linguagens mais utilizadas</h2>
+---
+
+<br/>
 
 <div align="center">
 
